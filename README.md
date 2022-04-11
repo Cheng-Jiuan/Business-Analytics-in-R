@@ -1,0 +1,25 @@
+# Business-Analytics-in-R
+商業數據分析課程筆記-01
+
+## 資料分析方法
+- 探索現況(Unsupervised Learning)：尺度、集群 -> 現象、結構、趨勢、圖表呈現方式
+- 設定目標(Visualization)：現況與目標關聯 -> 邏輯
+- 預測情境(Supervised Learning)：已知->未知（從過去現況到預測未來）
+- 策略規劃(Linear Programing)：與實際現況接軌（策略優化）
+
+## 商業邏輯
+資料 -> 模型 -> 預測機率、估計金額 、競爭狀態、總體經濟 -> 市場模擬 -> 預期結果 -> 策略優化
+
+## 商業數據分析範疇
+- 探索：Descriptive, Explorative
+- 診斷：Diagnostic, Relation, Causality
+- 預測：Prediction
+- 模擬：Assumption, Simulation
+- 優化：Optimization 
+
+## 行銷數據分析流程
+- 探索：整體結構趨勢 
+   - 分群屬性:選擇行銷重點、群間動態:設定經營目標
+- 預測：回購機率:設計行銷方案、預期獲利:選擇工具對象、終生價值:估計成本效益
+- 模擬：假設（市場模擬、策略優化）
+- <img width="361" alt="截圖 2022-04-11 上午11 03 49" src="https://user-images.githubusercontent.com/77944202/162658265-cc9ab39d-948b-453f-8b33-18cb547b7ff8.png">
